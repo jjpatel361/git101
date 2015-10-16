@@ -1,2 +1,1 @@
-# git101
-Learning basic Git
+# Github Dev Profile
