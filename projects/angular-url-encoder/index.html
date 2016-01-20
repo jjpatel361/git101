@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Angular Encoder Decoder</title>
+    <link rel="stylesheet" href="/css/bootstrap.min.css" media="screen" title="no title" charset="utf-8">
+    <link rel="stylesheet" href="/css/master.css" media="screen" title="no title" charset="utf-8">
+
+    <script src="js/angular.min.js" charset="utf-8"></script>
+  <script src="js/app.js" charset="utf-8"></script>
+    <script src="js/controller.js" charset="utf-8"></script>
+    <script src="js/service.js" charset="utf-8"></script>
+
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Angular URL Encoder Decoder</a>
+        </div>
+      </div>
+    </nav>
+
+
+    <div class="container" ng-app="encoderApp" ng-controller="appCtrl" style="margin-top: 100px;">
+      <div class="row">
+          <div class="col-md-12">
+            <div class="panel panel-default">
+              <div class="panel-heading">
+                  <h4>Encode-Decode</h4>
+              </div>
+                  <div class="panel-body">
+
+                    <div class="form-group">
+                      <!--<div class="row">
+                          <div class="col-md-10">
+                            <div class="btn-group" role="group" aria-label="...">
+                              <button type="button" class="btn btn-default">Copy</button>
+                              <button type="button" class="btn btn-default">Paste</button>
+                              <button type="button" class="btn btn-default">Clear</button>
+                            </div>
+                          </div>
+                      </div>-->
+                        <div class="row">
+                          <div class="col-md-12">
+                            <textarea ng-model="urlmodel.encodeurl" class="form-control" rows="2" id="comment" placeholder="Paste URL to encode">
+
+                            </textarea>
+                          </div>
+                        </div>
+
+
+
+
+                    </div>
+                    <div class="form-group">
+                        <label for="comment2"></label>
+                          <textarea class="form-control" rows="2" ng-model="urlmodel.decodedurl" placeholder="Paste URL to decode">
+                          </textarea>
+                    </div>
+                  </div>
+
+
+            </div>
+          </div>
+      </div>
+
+    </div>
+
+    <!--Container end-->
+
+    <!---Footer -->
+    <footer class="footer">
+      <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+              <p class="text-muted">Angular Encoder Decoder &copy; All rights un-reserved</p>
+            </div>
+            <div class="col-md-4">
+              <div class="pull-right">
+                  <p class="text-muted">
+                    Developed by Jay Patel
+                  </p>
+              </div>
+            </div>
+        </div>
+
+      </div>
+    </footer>
+
+
+  </body>
+</html>
