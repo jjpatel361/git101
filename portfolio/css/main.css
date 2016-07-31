@@ -1,0 +1,105 @@
+
+.light-theme{
+    background-color: #2aabd2;
+}
+
+.dark-theme{
+    background-color: #252628;
+}
+
+#devphoto{
+    background-color: white;
+    width: 175px;
+    height: 175px;
+    border-radius:50%;
+    overflow:hidden;
+    border:1px solid white;
+}
+
+.dev-info >h4{
+    color: white;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 4em;
+}
+
+.dev-info >p{
+    text-align: justify;
+    color: white;
+    font-family: 'Lato';
+    font-weight: 300;
+    font-size: 2em;
+    line-height: 1.8;
+}
+
+.page-title{
+    font-family: 'Lato';
+    color: white;
+    font-weight: 300;
+    font-size: 48px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.skype-panel {
+    border: none;
+    border-radius: 0px;
+}
+
+.skype-panel>.panel-heading{
+    background-image: none;
+    background-color: #2aabd2;
+    font-size: 20px;
+    color: #FFF;
+    border-radius: 0px;
+}
+
+.skill-list>li{
+    font-size:18px;
+    text-align: left;
+    font-family: 'Lato';
+    font-weight: 300;
+}
+
+.contact-tiles{
+    background-color: white;
+    width: 175px;
+    height: 175px;
+    border-radius:50%;
+    overflow:hidden;
+    border:1px solid white;
+    margin: 0 auto;
+    cursor: pointer;
+}
+
+
+.typed-cursor{
+    opacity: 1;
+    -webkit-animation: blink 0.7s infinite;
+    -moz-animation: blink 0.7s infinite;
+    animation: blink 0.7s infinite;
+}
+@keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-webkit-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+@-moz-keyframes blink{
+    0% { opacity:1; }
+    50% { opacity:0; }
+    100% { opacity:1; }
+}
+
+.language-list{
+    color: white;
+    font-weight: 300;
+    font-size: 32px;
+    font-family: 'Lato';
+    margin-top: 20%;
+}
