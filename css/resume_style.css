@@ -1,0 +1,21 @@
+.resume-title{
+  text-align: center;
+  font-family: 'Droid Sans', 'Droid Serif';
+  font-size: 32px;
+  font-family: 'Droid Serif', 'Droid Sans',sans-serif;
+}
+
+.resume-title span{
+    float: right;
+    font-size: 18px;
+    padding-top: 15px;
+}
+
+.screenshot-img{
+  text-align: center;
+}
+
+.download-link, .download-link >a {
+  font-family: 'Droid Sans', 'Droid Serif';
+  text-align: center;
+}

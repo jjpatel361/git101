@@ -1,0 +1,50 @@
+.mast-head > .six.columns > h1{
+  font-family: 'Droid Serif', 'Droid Sans',sans-serif;
+  font-weight: bold;
+  color: black;
+}
+.about-me{
+  font-family: 'Droid Sans';
+  font-size: 22px;
+  line-height: : 3.3
+
+}
+
+.top-nav span:after{
+    content: '/'
+}
+
+.top-nav span:last-of-type:after {
+  content: ' '
+}
+
+.top-nav{
+    float: right;
+    font-size: 75%;
+    font-weight: 400;
+    color: silver;
+    letter-spacing: 0;
+    padding-top: 10px;
+}
+.top-nav-item{
+    font-size: 32px;
+    font-weight: 400;
+    color: silver;
+    letter-spacing: 0;
+    cursor: pointer
+}
+
+.mast-head{
+  border-bottom: 3px solid black;
+}
+
+.about-me >p {
+  font-style: 'Droid Sans';
+
+}
+
+.about-title {
+  font-size: 33px;
+  font-family: 'Droid Serif';
+  text-align: center;
+}
