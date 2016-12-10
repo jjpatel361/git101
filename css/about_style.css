@@ -26,8 +26,13 @@
     letter-spacing: 0;
     padding-top: 10px;
 }
+.right-nav{
+  float: left;
+  font-weight: 400;
+  padding-top: 10px;
+}
 .top-nav-item{
-    font-size: 32px;
+    font-size: 25px;
     font-weight: 400;
     color: silver;
     letter-spacing: 0;
