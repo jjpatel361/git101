@@ -1,0 +1,34 @@
+
+.page-title{
+  font-family: 'Droid Sans', sans-serif;
+  font-style: normal;;
+  font-weight: 700;
+  border-bottom: 5px solid black;
+}
+.page-content{
+  margin-top: 25px;
+  line-height: 1.2;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  text-align: justify;
+}
+.info-header >p{
+  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 700;
+}
+
+.headline{
+  font-size: 22px;
+  font-weight: 700;
+  font-family: 'Droid Sans', sans-serif;
+}
+.author{
+  color: grey;
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+.preface{
+  font-family: 'Open Sans', sans-serif;
+}
