@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/first_hugo/</loc>
+    <lastmod>2017-05-19T10:06:00-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/resume/</loc>
+    <lastmod>2017-05-19T09:53:03-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/about/</loc>
+    <lastmod>2017-05-19T08:47:37-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/adventures/</loc>
+    <lastmod>2017-05-19T10:06:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/articles/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/aviato/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/bachman/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/blog/</loc>
+    <lastmod>2017-05-19T10:06:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/categories/</loc>
+    <lastmod>2017-05-19T10:06:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/coderag/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/</loc>
+    <lastmod>2017-05-19T10:06:00-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/pied-piper/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://shenoybr.github.io/hugo-goa-demo/tags/</loc>
+    <lastmod>2016-10-02T22:55:05-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

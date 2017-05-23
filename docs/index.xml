@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jay Patel</title>
+    <link>https://shenoybr.github.io/hugo-goa-demo/</link>
+    <description>Recent content on Jay Patel</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 19 May 2017 10:06:00 -0400</lastBuildDate>
+    
+	<atom:link href="https://shenoybr.github.io/hugo-goa-demo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>No Not Jekyll. Hugo</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/blog/first_hugo/</link>
+      <pubDate>Fri, 19 May 2017 10:06:00 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/blog/first_hugo/</guid>
+      <description>I am too lazy to write a blog here.</description>
+    </item>
+    
+    <item>
+      <title>Resume</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/resume/</link>
+      <pubDate>Fri, 19 May 2017 09:53:03 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/resume/</guid>
+      <description>Thanks for taking your time out. Resume.docx Resume.pdf</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/about/</link>
+      <pubDate>Fri, 19 May 2017 08:47:37 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/about/</guid>
+      <description>A Full stack web developer, have spent 2+ years on building financial web applications. Most of my time is spent on front end development and little with other parts of SDLC. I am interested in building data intensive web products on scale. And believe in &amp;ldquo;getting things done!&amp;rdquo;.
+Spend liesure time with Alexa (Echo Dot), answering on Quora, and sleeping like a polar bear.</description>
+    </item>
+    
+    <item>
+      <title>CodeRag</title>
+      <link>https://shenoybr.github.io/hugo-goa-demo/coderag/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://shenoybr.github.io/hugo-goa-demo/coderag/</guid>
+      <description>Notes: This article originally appeared in CodeRag.
+Code/Rag has always been more than just another online tech blog. We strive to be part of the tech community—serving an essential, fundamental look at what’s going on in the valley. It’s why our tagline is “Know Your Code.” We think a tech news publication should know the basics. Be the source. Get down to brass tacks. We can do that because we’re part of the very ecosystem we’re reporting on.</description>
+    </item>
+    
+  </channel>
+</rss>
